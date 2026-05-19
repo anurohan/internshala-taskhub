@@ -16,4 +16,4 @@ requests==2.32.3
 python-multipart==0.0.9
 gunicorn==22.0.0
 rq-dashboard==0.6.1
-onnxruntime==1.18.0
+onnxruntime==1.15.1
